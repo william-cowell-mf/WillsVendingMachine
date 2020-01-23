@@ -1,0 +1,12 @@
+{
+  "name": "WillsVendingMachine",
+  "version": "1.0.0",
+  "description": "Basic vending machine. It accepts money, makes change, maintains inventory and dispenses products.",
+  "main": "index.js",
+  "repository": "https://github.com/william-cowell-mf/WillsVendingMachine",
+  "author": "william-cowell-mf",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
